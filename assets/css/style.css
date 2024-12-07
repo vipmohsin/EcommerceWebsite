@@ -1,0 +1,84 @@
+.navp{
+  display: flex;
+    color: white;
+}
+ul li a{
+    color: white;
+    font-size: 13px;
+    padding: 10px 0px;
+    font-weight: bolder !important;    
+}
+.navp ul li a:hover{
+    color: white;
+}
+.hvr-underline-from-center:before{
+    background-color: black;
+}
+.navbar-brand h3{
+    color: white;
+}
+.navbar-expand-lg{
+    background-color: #05445E;
+} 
+header{
+    background-color: #05445E;
+}
+.btn-colour{
+    background-color: #05445E !important;
+}
+.ser{
+    color: white;
+    border-color: white;
+}
+.ser:hover{
+    background-color: #D4F1F4;
+    color: black;
+    border-color: black;
+}
+.card a{
+    justify-content: center !important;
+    align-items: center;
+}
+.bg-blue{
+    background-color: #05445E;
+
+    
+}
+.bg-btnblue{
+    background-color: #05445E;
+
+    
+}
+.btm{
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+footer{
+    height: 60px;
+    display: flex;
+    position: static;
+    bottom: 0;
+
+}
+footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: #05445E;
+    font-weight: bolder;
+}
+/* .cspan{
+ display: flex !important;
+  justify-content: flex-end !important;
+  align-items: flex-start !important;
+
+} */
+
+
+/* input gpt */
+.products{
+    height: 70hv;
+}
